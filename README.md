@@ -19,7 +19,7 @@ npm install
 ```
 then
 ```bash
-node Backend.js
+node backend.js
 ```
 
 After running this command, the backend server should be up and running.
